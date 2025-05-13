@@ -1,4 +1,5 @@
 .env
+.vscode
 /bitsandbytes
 /__pycache__
 /wandb
