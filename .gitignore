@@ -1,0 +1,7 @@
+.env
+/bitsandbytes
+/__pycache__
+/wandb
+/supervision
+/sft/checkpoints
+/datasets
